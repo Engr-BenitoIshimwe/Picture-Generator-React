@@ -1,1 +1,1 @@
-## Picture-Generator-React
+## Picture Generator | React
